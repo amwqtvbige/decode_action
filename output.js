@@ -1,4 +1,4 @@
-//Fri Dec 05 2025 02:54:45 GMT+0000 (Coordinated Universal Time)
+//Fri Dec 05 2025 03:00:03 GMT+0000 (Coordinated Universal Time)
 //Base:https://github.com/echo094/decode-js
 //Modify:https://github.com/smallfawn/decode_action
 const axios = require("axios"),
